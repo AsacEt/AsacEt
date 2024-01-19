@@ -1,0 +1,6 @@
+- 👋 Oi, sou o Carlos, nickname AsacEt, tenho 20 anos e estou interessado em me tornar Front-End Developer.
+- 👀 Gosto de ouvir e conhecer novas músicas e artistas, fazer origami e desenvolver sites divertidos...
+- 🌱 Atualmente, estou aprendendo mais sobre Web-design e a carreira Front-End através do bootcamp Desenvolvimento Frontend com Angular, pela D.I.O
+- 📫 Para me achar nas redes, recomendo pesquisar por "AsacEt", "asac.et" ou alguma variação disso. Também, crio que será um prazer ver você pelo meu LinkedIn.
+- 😄 Meus pronomes: Ele/dele; Meu signo: Escorpião; Primeiro acidente de carro: 12/08/2022
+- ⚡ Fun fact: Em AsacEt, Asac representa as iniciais do meu nome, ao contrário - E.T só coloquei porque gosto do filme.
