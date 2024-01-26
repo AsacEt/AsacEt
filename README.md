@@ -1,35 +1,27 @@
 
-# Oi, sou Carlos Azevedo 🦂
+### Olá! Meu nome é Carlos Abraão Azevedo 👋
 
-Tenho 20 anos, sou Amapaense e vivo em Santa Catarina. Sou **acadêmico de Farmácia** com previsão de formação para 2025 e no momento atuo como freelancer em diversas áreas enquanto aprimoro meus conhecimentos com a ajuda da D.I.O em busca de oportunidades no mercado como **Front-end Developer**.
+- 💊 Estudante de Farmácia
+- 💻 Iniciando no mundo do Front-end
+- 😸 Pronouns: Ele/Dele
+- 🔥 Pokémon do momento: Giratina
+  
+<div align= "center">
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Angular" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Java" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+                                 
+  <img align="right" alt="giratina&Cia" height="240" width="380" src="https://i.pinimg.com/originals/7e/30/f6/7e30f6211a5f6964c45b1a7d222fff45.gif">     
+</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsacEt&layout=compact&langs_count=7&theme=onedark"/>
 
-### Aqui vão algumas informações sobre mim:
-#### Conhecimentos em Programação:
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-#### Idiomas:
-
-| Idioma | Em que momento estou |
-|--------|----------------------|
-| Português | Fluente |
-| Inglês | Intermediário |
-| Espanhol | Aprendendo |
-
-### Conecte-se comigo! 👇
-
-[![DIO Profile](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO)](https://www.dio.me/users/abraao_azvdo2)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-as-azevedo/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asac.et/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:abraao.azvdo2@gmail.com)
-
-
-
+##
+   
+<a href="https://www.facebook.com/gustavoruizprestes.ruiz.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>                                                                                                                        <a href="https://www.instagram.com/asac.et/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-as-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
