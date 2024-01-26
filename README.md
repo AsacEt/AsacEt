@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Seja++muito+bem+vindo(a)!;Fique+à+vontade)](https://git.io/typing-svg)
 
-### Olá! Meu nome é Carlos Abraão Azevedo 👋
+
+### Meu nome é Carlos Abraão Azevedo 👋
 
 - 💊 Estudante de Farmácia
 - 💻 Iniciando no mundo do Front-end
