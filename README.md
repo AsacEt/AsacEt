@@ -25,3 +25,5 @@
   <a href="https://www.linkedin.com/in/carlos-as-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+> *“May the odds be **ever in your favor.”***
