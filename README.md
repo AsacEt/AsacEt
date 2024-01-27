@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Seja++muito+bem+vindo(a)!;Fique+à+vontade)](https://git.io/typing-svg)
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=E5F5F3&center=true&random=false&width=490&lines=Seja+muito+bem+vindo(a)!;Pode+ficar+%C3%A0+vontade%2C+o+Giratina+n%C3%A3o+morde+%3A);O+que+vamos+fazer+hoje%3F" alt="Typing SVG" /></a>
+</p>
 
 
 ### Meu nome é Carlos Abraão Azevedo 👋
