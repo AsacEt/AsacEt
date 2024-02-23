@@ -3,12 +3,12 @@
 </p>
 
 
-### Meu nome é Carlos Abraão Azevedo 👋
+### Meu nome é Carlos Azevedo 👋
 
 - 💊 Estudante de Farmácia
 - 💻 Iniciando no mundo do Front-end
 - 😸 Pronouns: Ele/Dele
-- 🔥 Pokémon do momento: Giratina
+- 🔥 Gosto de Pokémon
   
 <div align= "center">
 <div style="display: inline_block"><br>
