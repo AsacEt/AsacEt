@@ -5,10 +5,9 @@
 
 ### Meu nome é Carlos Azevedo 👋
 
-- 💊 Estudante de Farmácia
-- 💻 Iniciando no mundo do Front-end
+- 💊 Acadêmico de Farmácia e aprendiz no mundo do Front-end
 - 😸 Pronouns: Ele/Dele
-- 🔥 Gosto de Pokémon
+- 🔥 Gosto de Pokémon e Design
   
 <div align= "center">
 <div style="display: inline_block"><br>
